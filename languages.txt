@@ -1,0 +1,2 @@
+1. My favorite programming language is Python due to its versatility easy to read syntax.
+2. I am most experienced with Python and Swift, Swift due to Ios dev class. 
